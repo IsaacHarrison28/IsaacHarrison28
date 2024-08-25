@@ -1,6 +1,6 @@
 # Hi there, I'm Isaac Harrison 👋
 
-![Profile Views](https://github.com/IsaacHarrison28)
+![Profile Views](https://komarev.com/ghpvc/?username=IsaacHarrison28&color=blueviolet)
 
 ## 🚀 About Me
 
@@ -23,10 +23,6 @@
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=IsaacHarrison28&theme=monokai)
-
-## 🌟 Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaacHarrison28&repo=projectname)](https://github.com/IsaacHarrison28/projectname)
 
 ## 📫 Connect with Me
 
