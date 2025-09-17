@@ -8,19 +8,8 @@ I'm a software engineer with a keen interest in developing applications that enh
 
 ## Skills & Technologies
 
-react,nodejs,express,postgres,graphql,postman,cpp,androidstudio,materialui,mongodb,nextjs,tailwind,vscode
-
-## Top Projects
-
-- [Issue Tracker](https://github.com/IsaacHarrison28/Issue-Tracker) - A Next.js application for tracking issues. ⭐️ 0 | Language: TypeScript | Forks: 0 | Open Issues: 0
-- [SJF Simulation Desktop](https://github.com/IsaacHarrison28/SJF_simulation_desktop) - A desktop application simulating Shortest Job First scheduling. ⭐️ 0 | Language: C++ | Forks: 0 | Open Issues: 0
-- [Organize 360](https://github.com/IsaacHarrison28/Organize-360) - A task management application with a simple UI. ⭐️ 0 | Language: TypeScript | Forks: 0 | Open Issues: 0
-- [Data Structures and Algorithms in JavaScript](https://github.com/IsaacHarrison28/Data-Structures-and-Algorithms-in-JavaScript) - Implementations of various data structures and algorithms. ⭐️ 0 | Language: JavaScript | Forks: 0 | Open Issues: 0
-
-## Latest Blog Posts
-
-Currently, I don't have any blog posts. Stay tuned!
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,postgres,graphql,postman,cpp,androidstudio,materialui,mongodb,nextjs,tailwind,vscode&perline=8)](https://skillicons.dev)
 
 ## Connect with Me
 
-{"linkedin":"https://www.linkedin.com/in/isaac-harrison-bb0199219/","instagram":"https://www.instagram.com/isaacharrison28/"}
+<a href="https://www.linkedin.com/in/isaac-harrison-bb0199219/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a> | <a href="https://www.instagram.com/isaacharrison28/" target="_blank" rel="noopener noreferrer"><Icon /> Instagram</a>
