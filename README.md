@@ -1,29 +1,26 @@
-# Hi there, I'm Isaac Harrison 👋
+## Hi there! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=IsaacHarrison28&color=blueviolet)
+I'm **Isaac Harrison**, a passionate software engineer who loves tackling challenges and building innovative solutions. Let's connect and explore the world of technology together!
 
-## 🚀 About Me
+## About Me
 
-- 🌱 I’m currently learning **C++**
-- 👯 I’m looking to collaborate on projects in Javascript, Node.js, Express.js, React and C++
-- 💬 Ask me about **Web Development** or **Front end web development**
-- 📫 How to reach me: [isaacharrison2808@gmail.com](mailto:isaacharrison2808@gmail.com)
-- ⚡ Fun fact: I love taking evening walks, playing football(not american football though, lol but "soccer"), watching football matches, making videos (don't post yet!), collaborating on coding projects and more.
+I'm a software engineer with a keen interest in developing applications that enhance user experiences. Currently, I'm open to new opportunities and looking to collaborate on exciting projects. My bio reflects my journey in tech, and I'm always eager to learn and grow.
 
-## 🛠️ Skills
+## Skills & Technologies
 
-- **Languages:** C++, JavaScript, C, GraphQL
-- **Frameworks:** React, Node.js, Express.js, Typescript, AWS amplify
-- **Tools:** Git, VS Code (primary text editor), GitHub, Figma, Canva
+react,nodejs,express,postgres,graphql,postman,cpp,androidstudio,materialui,mongodb,nextjs,tailwind,vscode
 
-## 📈 GitHub Stats
+## Top Projects
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaacHarrison28&show_icons=true&theme=radical)
+- [Issue Tracker](https://github.com/IsaacHarrison28/Issue-Tracker) - A Next.js application for tracking issues. ⭐️ 0 | Language: TypeScript | Forks: 0 | Open Issues: 0
+- [SJF Simulation Desktop](https://github.com/IsaacHarrison28/SJF_simulation_desktop) - A desktop application simulating Shortest Job First scheduling. ⭐️ 0 | Language: C++ | Forks: 0 | Open Issues: 0
+- [Organize 360](https://github.com/IsaacHarrison28/Organize-360) - A task management application with a simple UI. ⭐️ 0 | Language: TypeScript | Forks: 0 | Open Issues: 0
+- [Data Structures and Algorithms in JavaScript](https://github.com/IsaacHarrison28/Data-Structures-and-Algorithms-in-JavaScript) - Implementations of various data structures and algorithms. ⭐️ 0 | Language: JavaScript | Forks: 0 | Open Issues: 0
 
-## 🏆 GitHub Trophies
+## Latest Blog Posts
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=IsaacHarrison28&theme=monokai)
+Currently, I don't have any blog posts. Stay tuned!
 
-## 📫 Connect with Me
+## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/isaac-harrison/)
+{"linkedin":"https://www.linkedin.com/in/isaac-harrison-bb0199219/","instagram":"https://www.instagram.com/isaacharrison28/"}
