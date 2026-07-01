@@ -6,7 +6,7 @@
 
 ### Full-Stack Web Developer • Mobile Development Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&width=435&lines=React+%7C+Typescript+;Full+Stack+Web+Developer;Mobile+App+Development+Enthusiast" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&center=true&width=435&lines=React+%7C+Typescript+;Full+Stack+Web+Developer;Mobile+App+Development+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
